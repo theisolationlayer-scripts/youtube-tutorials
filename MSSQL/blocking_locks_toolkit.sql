@@ -1,6 +1,10 @@
 /*******************************************************************************
   THE ISOLATION LAYER - www.youtube.com/@theisolationlayer
   How to Detect and Resolve Blocking Locks in SQL Server
+
+  IMPORTANT: Always test scripts in a development/staging environment before 
+  running in production. The author is not responsible for any impact, data 
+  loss, or downtime resulting from the use of this script.
 *******************************************************************************/
 
 --Simple query - determine if you have an issue
